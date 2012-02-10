@@ -1,0 +1,12 @@
+/* just to prevent the page from jumping sideways when the page gets too long, i.e on errors */
+body { overflow-y: scroll } 
+
+.max { max-width: 450px; }
+
+.cont { margin: 20px auto; }
+
+.tcenter { text-align: center; }
+
+.green { background-color: #f0f8e1; }
+
+.error { background-color: #f8ded2; } 
