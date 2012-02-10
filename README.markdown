@@ -8,17 +8,17 @@ To run tests, point the browser to: [baseurl]/js/tests/
 The calculating function:
 -----
 
-The current calculation algorithm is based on 
-a) minimum payment percentage + monthly interest rate or 
-b) a minimum fixed payment, 
-
+The current calculation algorithm is based on  
+a) minimum payment percentage + monthly interest rate or   
+b) a minimum fixed payment,     
 depending on what's larger.
 
 User interface:
 -----
 
 I tried to implement a couple of nice things, like for example allowing the user to user % and $ in the input fields, and filter the characters out instead of showing error messages for those characters that actually belong there, sort of :)  
-I also put the slider on the fixed amount minimum-payment, cause i thought that'd be the one the user want's to play around a little with
+
+I also put the slider on the fixed amount minimum-payment, cause i thought that'd be the one the user want's to play around a little with.
 
 
 How i would proceed from here:
